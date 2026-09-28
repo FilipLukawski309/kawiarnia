@@ -1,0 +1,12 @@
+=== KAWIARNIA "POD GAŁĘZIĄ" ===
+
+--- KAWA ---
+Espresso ............ 9 zł
+Americano .......... 11 zł
+Cappuccino ......... 13 zł
+Latte .............. 14 zł
+
+--- HERBATA ---
+Czarna .............. 8 zł
+Zielona ............. 9 zł
+Owocowa ............. 9 zł
