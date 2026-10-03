@@ -10,3 +10,7 @@ Latte .............. 15 zł
 Czarna .............. 8 zł
 Zielona ............. 9 zł
 Owocowa ............. 9 zł
+
+--- CIASTA ---
+Sernik ............. 12 zł
+Szarlotka .......... 11 zł
